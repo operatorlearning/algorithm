@@ -1,0 +1,4 @@
+tensorflow==1.15.0
+numpy==1.19.5
+gym==0.17.3
+opencv-python==4.5.3.56
